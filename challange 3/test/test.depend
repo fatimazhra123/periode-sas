@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636557552 source:c:\users\youcode\desktop\periode-sas\challange 3\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
